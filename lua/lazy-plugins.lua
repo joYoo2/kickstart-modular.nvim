@@ -35,7 +35,7 @@ require('lazy').setup({
 
   require 'kickstart.plugins.blink-cmp',
 
-  require 'kickstart.plugins.tokyonight',
+  require 'kickstart.plugins.rosepine',
 
   require 'kickstart.plugins.todo-comments',
 
